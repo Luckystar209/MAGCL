@@ -1,0 +1,14 @@
+python==3.8
+torch==2.3.1
+cudnn==11.8
+numpy==1.22.4
+scanpy==1.9.8
+anndata==0.8.0
+rpy2==3.4.1
+pandas==2.0.3
+scipy==1.9.0
+scikit-learn==1.1.1
+scikit-misc==0.2.0
+tqdm==4.67.1
+matplotlib==3.7.3
+R==4.0.3
